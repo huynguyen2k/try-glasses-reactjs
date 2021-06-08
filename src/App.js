@@ -1,10 +1,10 @@
 import './App.css'
-import ChooseCar from './component/view-car/ChooseCar'
+import TryGlasses from './component/try-glasses/TryGlasses'
 
 function App() {
   return (
     <div className="App">
-      <ChooseCar />
+      <TryGlasses />
     </div>
   )
 }
